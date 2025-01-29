@@ -30,8 +30,9 @@
 body {
     max-width: 600px;
     margin: auto;
+    font-family:'freightround_prolight', Arial, sans-serif;
 }
 
 h1 {
-    font-family: 'freightround_probook', Arial, sans-serif;
+    font-family: 'freightround_probold', Arial, sans-serif;
 }
