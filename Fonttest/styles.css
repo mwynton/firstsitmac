@@ -36,3 +36,9 @@ body {
 h1 {
     font-family: 'freightround_probold', Arial, sans-serif;
 }
+
+.icons{
+    font-size: 32px;
+    color: rgb(53, 48, 48);
+
+}
