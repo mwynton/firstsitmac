@@ -7,7 +7,6 @@
 
 }
 
-
 @font-face {
     font-family: 'freightround_prolight';
     src: url('fonts/freightroundprolight-webfont.woff2') format('woff2'),
@@ -16,7 +15,6 @@
     font-style: normal;
 
 }
-
 
 @font-face {
     font-family: 'freightround_probold';
@@ -34,7 +32,7 @@ body {
 }
 
 h1 {
-    font-family: 'freightround_probold', Arial, sans-serif;
+    font-family: "freightround_probold", Arial, sans-serif;
 }
 
 .icons{
